@@ -1,0 +1,23 @@
+h2 {
+    color: navy;
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 40px;
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 5px solid darkcyan;
+    padding: 10px;
+}
+p {
+    font-family: Chiller;
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    margin: 50px auto;
+}

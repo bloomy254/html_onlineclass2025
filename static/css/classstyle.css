@@ -1,0 +1,33 @@
+.container {
+    padding: 20px;
+    background-color: wheat;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    margin: auto;
+}
+.header {
+    text-align: center;
+    font-family: Arial, serif;
+    color: whitesmoke;
+}
+.content {
+    font-family: "Calisto MT";
+    color: gray;
+    line-height: 1.6;
+}
+.content-highlight {
+    font-family: "Arial Narrow";
+    font-size: 30px;
+    color: darkgray;
+    background-color: #ffac4b;
+    border-radius: 10px;
+}
+#my_id {
+    text-align: center;
+    font-size: 1.2em;
+    color: dodgerblue;
+}
+body {
+    background-color: honeydew;
+}
